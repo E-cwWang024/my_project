@@ -6,9 +6,8 @@ This is my first project on GitHub, one that records my practice of applying cod
 
 ## Contents
 
-1. Python_LinearAlgebra
-
-> *Currently, the project only contains this part. I will add more content in the future.*
+1. PythonLinearAlgebra
+2. PythonMatplotlib
 
 ## Environments and Dependencies
 
